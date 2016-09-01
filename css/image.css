@@ -1,0 +1,43 @@
+.1920x10801920x1080-01,
+.1920x10801920x1080-02,
+.1920x10801920x1080-03,
+.1920x10801920x1080-04,
+.1920x10801920x1080-05,
+.1920x10801920x1080-06,
+.1920x10801920x1080-08,
+.1920x10801920x1080-09 {
+    background-image: url(/../images/1920x1080.jpg);
+    background-size: 200% 400% !important;
+}
+
+.1920x10801920x1080-01 {
+    background-position: -0% -0% !important;
+}
+
+.1920x10801920x1080-02 {
+    background-position: -1922% -0%;
+}
+
+.1920x10801920x1080-03 {
+    background-position: -1% -1081%;
+}
+
+.1920x10801920x1080-04 {
+    background-position: -1922% -1081%;
+}
+
+.1920x10801920x1080-05 {
+    background-position: -1% -2162%;
+}
+
+.1920x10801920x1080-06 {
+    background-position: -1922% -2162%;
+}
+
+.1920x10801920x1080-08 {
+    background-position: -1% -3243%;
+}
+
+.1920x10801920x1080-09 {
+    background-position: -1922% -3243%;
+}
