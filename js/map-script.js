@@ -58,7 +58,7 @@
           raiseOnDrag: false,
           icon: ' ',
           map: map,
-          labelContent: '<div class="de-icon circle medium-size" style="background-color:#f0394d"><i class="icon-logo-bk-Wline"></i></div>',
+          labelContent: '<div class="de-icon circle medium-size" style="background-color:#BA55D3"><i class="icon-logo-bk-Wline"></i></div>',
           labelAnchor: new google.maps.Point(30, 30),
           labelClass: "labels" // the CSS class for the label
       });
